@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = 停止 | 向前 | 向右 | 向后 | 向左 | 起飞 | 降落;
