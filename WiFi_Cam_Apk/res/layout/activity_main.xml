@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@mipmap/lunch_start_bg" android:scaleType="fitXY" />
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginTop="@dimen/x40" android:maxHeight="20.0dip" android:layout_marginStart="@dimen/x40">
+        <com.unad.sdk.UNADBannerView android:id="@id/ad_banner_view" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/adlayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/x40" android:layout_marginStart="@dimen/x40" />
+    <ImageView android:id="@id/ivLogoStart" android:layout_width="@dimen/x200" android:layout_height="@dimen/x200" android:layout_marginTop="@dimen/x40" android:layout_marginRight="@dimen/x40" android:src="@drawable/lunch_start_click" android:layout_alignParentRight="true" android:onClick="onClick" />
+    <ImageView android:id="@id/ivLogoInfo" android:layout_width="@dimen/x120" android:layout_height="@dimen/x120" android:layout_marginLeft="@dimen/x30" android:layout_marginBottom="@dimen/x30" android:src="@drawable/lunch_info_click" android:layout_alignParentBottom="true" android:onClick="onClick" />
+    <ImageView android:id="@id/openUMP" android:layout_width="@dimen/x120" android:layout_height="@dimen/x120" android:layout_marginLeft="538.0dip" android:layout_marginTop="0.0dip" android:layout_marginRight="@dimen/x30" android:layout_marginBottom="17.0dip" android:src="@drawable/lunch_ump_click" android:layout_toRightOf="@id/ivLogoInfo" android:layout_alignTop="@id/ivLogoInfo" android:layout_alignParentBottom="true" android:onClick="onClick" android:layout_marginStart="538.0dip" android:layout_marginEnd="15.0dip" android:layout_toEndOf="@id/ivLogoInfo" android:layout_alignEnd="@id/ivLogoStart" />
+</RelativeLayout>
