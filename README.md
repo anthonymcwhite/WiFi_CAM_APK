@@ -22,4 +22,17 @@
      I've yet to time flight while operating at 100% In general this 
      is just a product to nerd out on while it s cold outside. </tt>
 
+
+
+![drone1](https://github.com/user-attachments/assets/123b3c4c-6622-4fc7-8a0c-8dafa0536067)
+
+
+
+
+
+     
+
+
+     
+
   
