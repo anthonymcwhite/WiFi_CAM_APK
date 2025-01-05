@@ -26,6 +26,19 @@
 
 ![drone1](https://github.com/user-attachments/assets/123b3c4c-6622-4fc7-8a0c-8dafa0536067)
 
+ <tt> Just as an update... As of the first of 2025 I am still updaating and putting together 
+      the entirety of the apk file while also dissecting it and learning what I can 
+      from it along the way. Once you get down in there you can see how and where the information 
+      for the adds comes and goes through. Its interesting. I intend to keep pursuind this
+      project as I can. I also testes and esp-8266 deauther against the network ssid that
+      the drone hosts in order for the mobile device to connect.</tt>
+
+
+![eastcoastWiFi](https://github.com/user-attachments/assets/c05d7b2c-cc8f-466f-ae12-66c80d7e7e2e)
+
+
+
+![adsb](https://github.com/user-attachments/assets/738d3320-0ee1-4c90-aab0-86f46db10787)
 
 
 
